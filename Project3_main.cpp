@@ -1,4 +1,4 @@
-	#include "sgk0053Project3_header.h"
+	#include "Project3_header.h"
 
 
 
@@ -28,7 +28,6 @@ int main()
 	cout<<"+--------------------------------------------------------+"<<endl;
 	cout<<"|	Computer Science and Engineering 		 |"<<endl;
 	cout<<"|	CSCE 1030 section 303 Computer Science I 	 |"<<endl;
-	cout<<"|	Sydney King SGK0053 sgk0053@my.unt.edu 		 |"<<endl;
 	cout<<"+--------------------------------------------------------+"<<endl;
 
 	do{
