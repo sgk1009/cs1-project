@@ -1,5 +1,5 @@
 	
-	#include "sgk0053Project3_header.h"
+	#include "Project3_header.h"
 	
 	//function for account name
 	string getName(string userName){
